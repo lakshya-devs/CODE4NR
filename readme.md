@@ -1,6 +1,9 @@
 # CODE4NR
+
 AI+ML
+
 MOVIE RECOMMENDATION ENGINE
+
 WE'LL be building a recommendation system that suggests movies based on user preferences and similarities between movie attributes.
 
 OUR FIRST FEATURE:-
